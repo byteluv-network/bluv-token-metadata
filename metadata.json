@@ -1,0 +1,13 @@
+{
+    "name": "ByteLuv",
+    "symbol": "BLUV",
+    "description": "BLUV is ByteLuv's native token, representing love for everyone.",
+    "image": "https://www.byteluv.network/byteluv-logo-192.png",
+    "external_url": "https://www.byteluv.network",
+    "attributes": [
+        {
+            "trait_type": "Theme",
+            "value": "Love"
+        }
+    ]
+}
